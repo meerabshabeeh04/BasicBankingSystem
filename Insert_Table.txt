@@ -1,0 +1,11 @@
+INSERT INTO `user_`(`FIRST_NAME`, `LAST_NAME`, `EMAIL`, `PH_NO`, `GENDER`, `BALANCE`) VALUES ('Amal','Anas','AmalAnas@gmail.com','03008888222','Female','5000');
+INSERT INTO `user_`(`FIRST_NAME`, `LAST_NAME`, `EMAIL`, `PH_NO`, `GENDER`, `BALANCE`) VALUES ('Hashim','Khan','HashimKhan@gmail.com','03003434343','Male','10000');
+INSERT INTO `user_`(`FIRST_NAME`, `LAST_NAME`, `EMAIL`, `PH_NO`, `GENDER`, `BALANCE`) VALUES ('Sana','Ilyas','SanaIlyas@gmail.com','03320000333','Female','2000');
+INSERT INTO `user_`(`FIRST_NAME`, `LAST_NAME`, `EMAIL`, `PH_NO`, `GENDER`, `BALANCE`) VALUES ('Mahira','Mahad','MahiraMahad@gmail.com','03327772222','Female','6000');
+INSERT INTO `user_`(`FIRST_NAME`, `LAST_NAME`, `EMAIL`, `PH_NO`, `GENDER`, `BALANCE`) VALUES ('Alyan','Ahmed','AlyanAhmed@gmail.com','03005656565','Male','20000');
+INSERT INTO `user_`(`FIRST_NAME`, `LAST_NAME`, `EMAIL`, `PH_NO`, `GENDER`, `BALANCE`) VALUES ('Ayra','Ali','AyraAli@gmail.com','03356262626','Female','5000');
+INSERT INTO `user_`(`FIRST_NAME`, `LAST_NAME`, `EMAIL`, `PH_NO`, `GENDER`, `BALANCE`) VALUES ('Haider','Ali','HaiderAli@gmail.com','03001717171','Male','4000');
+INSERT INTO `user_`(`FIRST_NAME`, `LAST_NAME`, `EMAIL`, `PH_NO`, `GENDER`, `BALANCE`) VALUES ('Ushna','Hammad','UshnaHammad@gmail.com','03354444000','Female','7000');
+INSERT INTO `user_`(`FIRST_NAME`, `LAST_NAME`, `EMAIL`, `PH_NO`, `GENDER`, `BALANCE`) VALUES ('Usman','Ahmed','UsmanAhmed@gmail.com','03352222222','Male','40000');
+INSERT INTO `user_`(`FIRST_NAME`, `LAST_NAME`, `EMAIL`, `PH_NO`, `GENDER`, `BALANCE`) VALUES ('Bisma','Babar','BismaBabar@gmail.com','03000101010','Female','3000');
+INSERT INTO `user_`(`FIRST_NAME`, `LAST_NAME`, `EMAIL`, `PH_NO`, `GENDER`, `BALANCE`) VALUES ('Marium','Moheed','MariumMoheed@gmail.com','03002323232','Female','10000');
